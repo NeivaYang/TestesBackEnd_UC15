@@ -1,0 +1,12 @@
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\Leo\Desktop\TesteUC15\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
